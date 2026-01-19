@@ -1,4 +1,5 @@
-<!--Copyright (c) Robert A. Howell  2022-2026
+<!--
+Copyright (c) 2022-2026 Robert A. Howell
 Author: Robert A. Howell
 Description: This project is a Frontend Mentor challenge. I chose to increase the challenge difficulty by creating the site using the Next.js framework. The site is hosted live at the below hyperlink. 
 Created_Date: November 2022
@@ -14,19 +15,20 @@ This is a Frontend Mentor challenge. I've applied this development challenge in 
 This site is available to view at [https://visionary-cendol-e005e0.netlify.app/](https://visionary-cendol-e005e0.netlify.app/)  
 
 ## Features  
-- React components using the Next.js framework  
-- Mobile responsive website, following the design of Frontend Mentor  
+- React components using the Next.js framework
+- Mobile responsive website, following the design of Frontend Mentor
 
 ## The challenge  
 Users should be able to:
-- View the optimal layout for the site depending on their device's screen size  
-- See hover states for all interactive elements on the page  
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 <details open>
+
 <summary>Design Picture (Mobile):</summary>
 
-| Design | Current | Mobile |
-|---|---|---| 
-|<img src="FEMentor__mobile-design.jpg" width="95%">|<img src="Web_capture_visionary-cendol-e005e0.netlify.app.jpeg" width="95%">|<img src="Web_capture_visionary-cendol-e005e0.netlify.app-2.jpeg" width="95%">|
+| Design                                         | Current                                                              | Mobile                                                                   |
+|------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------| 
+| ![Design picture](FEMentor__mobile-design.jpg) | ![Web capture](Web_capture_visionary-cendol-e005e0.netlify.app.jpeg) | ![Web capture 2](Web_capture_visionary-cendol-e005e0.netlify.app-2.jpeg) |
 
 </details>
